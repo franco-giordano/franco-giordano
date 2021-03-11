@@ -1,10 +1,9 @@
 <div align="center">
-
-<a href="https://github.com/franco-giordano/github-stats">
   
-![](https://raw.githubusercontent.com/franco-giordano/github-stats/master/generated/overview.svg)
-![](https://github.com/franco-giordano/github-stats/blob/master/generated/languages.svg)
+<img width="350vw" src="https://github.com/franco-giordano/github-stats/blob/master/generated/languages.svg" align="left" style="margin: 0 1em 1em 0"> 
+<br>
+<br>
 
-</a>
+Hi! These are some of the languages I've been using. Check out some projects of mine or my personal website :zap:
 
 </div>
