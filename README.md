@@ -1,13 +1,11 @@
+<img width="350vw" src="https://github.com/franco-giordano/github-stats/blob/master/generated/languages.svg" align="right" style="margin: 0 1em 1em 0">
 
-  
-<img width="350vw" src="https://github.com/franco-giordano/github-stats/blob/master/generated/languages.svg" align="left" style="margin: 0 1em 1em 0"> Hi! These are some of the languages I've been using. Some other technologies/patterns I've used include:
-- Flask + PostgreSQL
+Hi! These are some of the languages I've been using. Some other technologies/patterns/stuff I've used include:
+
+- [Google Cloud Platform + Locust](https://github.com/franco-giordano/fiuba-taller3-tp1)
+- [Flask + PostgreSQL + Docker](https://github.com/franco-giordano/chotuve-appserver)
+- [HA, fault-tolerant distributed system](https://github.com/franco-giordano/fiuba-dist1-tp4)
 - [Expo (React Native) + TensorflowJS](https://github.com/cryptoboid/mytag)
-- Test-Driven Development + Behavior-Driven Development
-- WebGL
-- Hexagonal Architecture
-- Sockets + SDL2
-
-<div align="center">
-Check out some projects of mine or my personal website :zap:
-</div>
+- [SvelteKit + GunDB](https://github.com/cryptoboid/splitio)
+- [WebGL](https://github.com/franco-giordano/fiuba-graficos)
+- [Sockets + SDL2](https://github.com/nachonitz/Eclipsados-Cliente)
