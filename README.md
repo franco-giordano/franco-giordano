@@ -1,6 +1,6 @@
-<img width="350vw" src="https://github.com/franco-giordano/github-stats/blob/master/generated/languages.svg" align="right" style="margin: 0 1em 1em 0">
+Hi! These are some of the languages I've been using. <br><img width="350vw" src="https://github.com/franco-giordano/github-stats/blob/master/generated/languages.svg" align="right" style="margin: 0 1em 1em 0">
+ Some other technologies/patterns/stuff I've used include:
 
-Hi! These are some of the languages I've been using. Some other technologies/patterns/stuff I've used include:
 
 - [Google Cloud Platform + Locust](https://github.com/franco-giordano/fiuba-taller3-tp1)
 - [Flask + PostgreSQL + Docker](https://github.com/franco-giordano/chotuve-appserver)
